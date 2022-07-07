@@ -1,2 +1,3 @@
 # first_project_sdacad
-simple script sh
+
+git stuff + versioning (tutorial...)
